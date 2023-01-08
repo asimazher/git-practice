@@ -1,2 +1,3 @@
 file 2
 edited in local
+edited in remote
