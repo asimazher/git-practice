@@ -1,1 +1,2 @@
 file 1
+after making sign-in and add-to-cart.
